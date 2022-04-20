@@ -9,6 +9,7 @@ var direction = 1
 export var gravity = Vector2(0,30)
 
 export var move_speed = 5
+export var block_move_speed = 50
 export var max_move = 200
 
 export var jump_speed = 100
